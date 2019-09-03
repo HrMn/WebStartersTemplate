@@ -1,0 +1,12 @@
+{
+	"username": "test",
+	"displayname": "Test User",
+	"roles": [
+		{
+			"type": "0"
+		},
+		{
+            "type":"1"
+		}
+	]
+}
